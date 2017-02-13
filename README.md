@@ -1,5 +1,5 @@
 # Opinion-Spam-Detection
-
+Team of 5
 The dataset was downloaded from: http://snap.stanford.edu/data/web-FineFoods.html
 
 The dataset should be cleaned for special characters, formatted (timestamp to date) and properly delimited to fit our pig scripts (to extract the spam, ham data based on our heuristics) run in HDFS
